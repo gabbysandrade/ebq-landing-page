@@ -18,7 +18,7 @@ mockup landing page.
 @font-face {
    font-family: 'Open Sans';
    src: url("assets/OpenSans-SemiBold.ttf");
-   font-style: semibold;
+   font-weight: 600;
 }
 
 
@@ -56,6 +56,23 @@ p {
 #logo {
     width: 106px;
     height: 106px;
+}
+
+/* Button Styles */
+
+.btn {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 600;
+    border-radius: 30px;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    padding-left: 2.1rem;
+    padding-right: 2.1rem;
+}
+
+.btn-primary {
+    background-color: rgb(41, 121, 236);
 }
 
 /* Medium devices (tablets, 768px and up) */
