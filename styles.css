@@ -73,7 +73,7 @@ p {
     height: 106px;
 }
 
-#toolsuite {
+#toolsuite, #team {
     width: 100%;
 }
 
@@ -105,8 +105,12 @@ p {
     #intro_txt {
         padding-right: 1.5rem;
     }
-    
     #abt1_txt {
         padding-right: 3.5rem;
+    }
+    #team {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
