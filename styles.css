@@ -63,6 +63,10 @@ p {
     height: 106px;
 }
 
+#toolsuite {
+    width: 100%;
+}
+
 /* Button Styles */
 
 .btn {
