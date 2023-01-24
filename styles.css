@@ -79,6 +79,15 @@ p {
     padding-bottom: 10%;
 }
 
+#abt2_hd {
+    margin-bottom: 8%;
+}
+
+.abt2_txt {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
 #cta {
     text-align: center;
     padding-top: 25%;
