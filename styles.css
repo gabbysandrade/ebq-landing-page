@@ -37,6 +37,15 @@ p {
     line-height: 25px;
 }
 
+/* Background Styles */
+.lblue {
+    background-color: rgb(235, 244, 255);
+}
+
+.dblue {
+    background-color: rgb(10, 69, 158);
+}
+
 /* Medium devices (tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .bodydiv {
