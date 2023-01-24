@@ -141,6 +141,10 @@ p {
 .btn-secondary {
     background-color: rgb(255, 190, 60);
     color: rgb(10, 69, 158);
+    --bs-btn-hover-bg: rgb(207, 154, 48);
+    --bs-btn-hover-border-color: rgb(207, 154, 48);
+    --bs-btn-active-bg: rgb(255, 190, 60);
+    --bs-btn-active-border-color: rgb(255, 190, 60);
     font-weight: bold;
     margin-top: 10%;
 }
