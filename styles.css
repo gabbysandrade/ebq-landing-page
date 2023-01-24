@@ -5,3 +5,9 @@ Purpose: This program will render the base styles for the EBQ
 mockup landing page.
 **************************/
 
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .bodydiv {
+        width: 80%;
+    }
+}
