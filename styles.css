@@ -125,7 +125,7 @@ p {
 .icons {
     font-size: 32px;
     color:rgb(255, 190, 60);
-    opacity: 0;
+    display: none;
 }
 
 /* Button Styles */
