@@ -74,6 +74,14 @@ p {
     padding-bottom: 10%;
 }
 
+#cta {
+    text-align: center;
+}
+
+#cta h2, #cta span {
+    color: white;
+}
+
 /* Image Styles */
 .navbar-brand {
     width: 25%;
