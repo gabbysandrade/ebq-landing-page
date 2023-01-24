@@ -102,4 +102,11 @@ p {
     .textblock {
         text-align: left;
     }
+    #intro_txt {
+        padding-right: 1.5rem;
+    }
+    
+    #abt1_txt {
+        padding-right: 3.5rem;
+    }
 }
