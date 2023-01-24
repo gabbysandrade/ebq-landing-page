@@ -53,6 +53,10 @@ p {
     padding-bottom: 7%;
 }
 
+.textblock {
+    text-align: center;
+}
+
 /* Image Styles */
 #logo {
     width: 106px;
@@ -76,9 +80,12 @@ p {
     background-color: rgb(41, 121, 236);
 }
 
-/* Medium devices (tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
+/* Large devices (desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
     .bodydiv {
         width: 80%;
+    }
+    .textblock {
+        text-align: left;
     }
 }
