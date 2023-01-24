@@ -46,6 +46,18 @@ p {
     background-color: rgb(10, 69, 158);
 }
 
+/* Section Styles */
+#intro {
+    padding-top: 7%;
+    padding-bottom: 3%;
+}
+
+/* Image Styles */
+#logo {
+    width: 106px;
+    height: 106px;
+}
+
 /* Medium devices (tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .bodydiv {
